@@ -13,7 +13,10 @@ img {
   margin: 0 auto;
 }
 
-/* A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).This is the central image, and it's now centered. */
+/* A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).This is the central image, and it's now centered. Could have also written margins like this:
+  margin-left: auto;
+  margin-right: auto;
+*/
 
 
 nav,
