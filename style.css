@@ -23,6 +23,7 @@ nav,
 figcaption {
   text-align: center;
 }
+/*Let's shrink that font size down and make sure it is centered.*/
 
 nav a {
   padding: 0 10px;
