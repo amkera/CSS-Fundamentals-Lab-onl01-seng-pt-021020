@@ -39,6 +39,8 @@ nav a {
   margin: 0 auto;
 }
 
+/*Wouldn't it look nicer if our text was centered as well? Our image is about 900px wide, so let's give all our <p> within #featured-property a hard width of 800px and center the text in there.*/
+
 #details div{
   float: left;
   background-color: red;
